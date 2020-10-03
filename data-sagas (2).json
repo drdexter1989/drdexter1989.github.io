@@ -1,0 +1,375 @@
+{
+    "items": [
+        {
+            "info": {
+                "img": "https://i.imgur.com/bIGkvzj.jpg",
+                "slug": "alerta-en-lo-profundo"
+            },
+            "name": "Alerta en lo Profundo"
+        },
+        {
+            "info": {
+                "img": "https://i.imgur.com/ZgqDc2Y.jpg",
+                "slug": "alien"
+            },
+            "name": "Alien"
+        },                
+        {
+            "info": {
+                "img": "https://i.imgur.com/C3Qnzei.jpg",
+                "slug": "alvin-y-las-ardillas"
+            },
+            "name": "Alvin y las Ardillas"
+        },
+        {
+            "info": {
+                "img": "https://i.imgur.com/LUbDQ5N.jpg",
+                "slug": "annabelle"
+            },
+            "name": "Annabelle"
+        },
+        {
+            "info": {
+                "img": "https://i.imgur.com/vfu12yw.jpg",
+                "slug": "batman"
+            },
+            "name": "Batman"
+        },
+        {
+            "info": {
+                "img": "https://i.imgur.com/qDqwVja.jpg",
+                "slug": "bill-y-ted"
+            },
+            "name": "Bill & Ted"
+        },        
+        {
+            "info": {
+                "img": "https://i.imgur.com/cIDk3Ze.jpg",
+                "slug": "bourne"
+            },
+            "name": "Bourne"
+        },
+        {
+            "info": {
+                "img": "https://i.imgur.com/bIv1Oqf.jpg",
+                "slug": "busqueda-implacable"
+            },
+            "name": "Búsqueda Implacable"
+        },
+        {
+            "info": {
+                "img": "https://i.imgur.com/Tf3QTWt.jpg",
+                "slug": "cars"
+            },
+            "name": "Cars"
+        },
+        {
+            "info": {
+                "img": "https://i.imgur.com/SZRBzkC.jpg",
+                "slug": "corazon-de-dragon"
+            },
+            "name": "Corazón de Dragón"
+        },        
+        {
+            "info": {
+                "img": "https://i.imgur.com/wzT1NZa.jpg",
+                "slug": "crepusculo"
+            },
+            "name": "Crepúsculo"
+        },
+        {
+            "info": {
+                "img": "https://i.imgur.com/oDiMEx4.jpg",
+                "slug": "destino-final"
+            },
+            "name": "Destino Final"
+        },    
+        {
+            "info": {
+                "img": "https://i.imgur.com/hKtAfaM.jpg",
+                "slug": "el-padrino"
+            },
+            "name": "El Padrino"
+        },               
+        {
+            "info": {
+                "img": "https://i.imgur.com/rD5CgWr.jpg",
+                "slug": "el-planeta-de-los-simios"
+            },
+            "name": "El Planeta de los Simios"
+        },   
+        {
+            "info": {
+                "img": "https://i.imgur.com/S1H1VM6.jpg",
+                "slug": "el-senor-de-los-anillos"
+            },
+            "name": "El Señor de los Anillos"
+        },   
+        {
+            "info": {
+                "img": "https://i.imgur.com/iC2mDcw.jpg",
+                "slug": "fate-stay-night-heavens-feel"
+            },
+            "name": "Fate/Stay Night"
+        },                   
+        {
+            "info": {
+                "img": "https://i.imgur.com/KwktemM.jpg",
+                "slug": "harry-potter"
+            },
+            "name": "Harry Potter"
+        },
+        {
+            "info": {
+                "img": "https://i.imgur.com/rfx5YTB.jpg",
+                "slug": "hombres-de-negro"
+            },
+            "name": "Hombres de Negro"
+        },        
+        {
+            "info": {
+                "img": "https://i.imgur.com/1V69u0O.jpg",
+                "slug": "hotel-transylvania"
+            },
+            "name": "Hotel Transilvanya"
+        },
+        {
+            "info": {
+                "img": "https://i.imgur.com/CZ9XXlx.jpg",
+                "slug": "inframundo"
+            },
+            "name": "Inframundo"
+        },        
+        {
+            "info": {
+                "img": "https://i.imgur.com/uWyqMOd.jpg",
+                "slug": "it-eso"
+            },
+            "name": "It (Eso)"
+        },
+        {
+            "info": {
+                "img": "https://i.imgur.com/dXZ4gK1.jpg",
+                "slug": "soldado-anonimo"
+            },
+            "name": "Soldado Anónimo"
+        },        
+        {
+            "info": {
+                "img": "https://i.imgur.com/2Z2Vtzz.jpg",
+                "slug": "john-wick"
+            },
+            "name": "John Wick"
+        },
+        {
+            "info": {
+                "img": "https://i.imgur.com/StcCRN8.jpg",
+                "slug": "jumanji"
+            },
+            "name": "Jumanji"
+        },
+        {
+            "info": {
+                "img": "https://i.imgur.com/GfApNSB.jpg",
+                "slug": "jurassic-park"
+            },
+            "name": "Jurassic Park"
+        },        
+        {
+            "info": {
+                "img": "https://i.imgur.com/QrIHwF2.jpg",
+                "slug": "karate-kid"
+            },
+            "name": "Karate Kid"
+        },
+        {
+            "info": {
+                "img": "https://i.imgur.com/skngcUI.jpg",
+                "slug": "kung-fu-panda"
+            },
+            "name": "Kung Fu Panda"
+        },        
+        {
+            "info": {
+                "img": "https://i.imgur.com/gprdrcl.jpg",
+                "slug": "era-de-hielo"
+            },
+            "name": "La Era de Hielo"
+        },  
+        {
+            "info": {
+                "img": "https://i.imgur.com/wIu44mX.jpg",
+                "slug": "los-indestructibles"
+            },
+            "name": "Los Indestructibles"
+        },           
+        {
+            "info": {
+                "img": "https://i.imgur.com/UIUGho7.jpg",
+                "slug": "los-juegos-del-hambre"
+            },
+            "name": "Los Juegos del Hambre"
+        },             
+        {
+            "info": {
+                "img": "https://i.imgur.com/B6Ckrw4.jpg",
+                "slug": "los-muppets"
+            },
+            "name": "Los Muppets"
+        },       
+        {
+            "info": {
+                "img": "https://i.imgur.com/3wCg1VY.jpg",
+                "slug": "madagascar"
+            },
+            "name": "Madagascar"
+        },             
+        {
+            "info": {
+                "img": "https://i.imgur.com/Xe85cVv.jpg",
+                "slug": "matrix"
+            },
+            "name": "Matrix"
+        },
+        {
+            "info": {
+                "img": "https://i.imgur.com/54TmNU5.jpg",
+                "slug": "maze-runner"
+            },
+            "name": "Maze Runner"
+        },        
+        {
+            "info": {
+                "img": "https://i.imgur.com/CI6c2f7.jpg",
+                "slug": "mi-villano-favorito"
+            },
+            "name": "Mi Villano Favorito"
+        },
+        {
+            "info": {
+                "img": "https://i.imgur.com/iOg92Br.jpg",
+                "slug": "mision-imposible"
+            },
+            "name": "Misión Imposible"
+        },
+        {
+            "info": {
+                "img": "https://i.imgur.com/1bhENeH.jpg",
+                "slug": "naruto"
+            },
+            "name": "Naruto"
+        },     
+        {
+            "info": {
+                "img": "https://i.imgur.com/CZA9P6c.jpg",
+                "slug": "pesadilla-en-la-calle-elm"
+            },
+            "name": "Pesadilla en la Calle Elm"
+        },             
+        {
+            "info": {
+                "img": "https://i.imgur.com/AnVdca2.jpg",
+                "slug": "piratas-del-caribe"
+            },
+            "name": "Piratas del Caribe"
+        },        
+        {
+            "info": {
+                "img": "https://i.imgur.com/oHPk4s2.jpg",
+                "slug": "rambo"
+            },
+            "name": "Rambo"
+        },
+        {
+            "info": {
+                "img": "https://i.imgur.com/gYgyHxc.jpg",
+                "slug": "rapido-y-furioso"
+            },
+            "name": "Rápido y Furioso"
+        },        
+        {
+            "info": {
+                "img": "https://i.imgur.com/ZxVnIsZ.jpg",
+                "slug": "resident-evil"
+            },
+            "name": "Resident Evil"
+        },        
+        {
+            "info": {
+                "img": "https://i.imgur.com/0QikhJA.jpg",
+                "slug": "rocky"
+            },
+            "name": "Rocky"
+        },        
+        {
+            "info": {
+                "img": "https://i.imgur.com/9nvEEV8.jpg",
+                "slug": "saga-del-infinito"
+            },
+            "name": "Saga del Infinito"
+        },        
+        {
+            "info": {
+                "img": "https://i.imgur.com/PjEhxyj.jpg",
+                "slug": "shrek"
+            },
+            "name": "Shrek"
+        },
+        {
+            "info": {
+                "img": "https://i.imgur.com/nAZBhsW.jpg",
+                "slug": "star-wars"
+            },
+            "name": "Star Wars"
+        },  
+        {
+            "info": {
+                "img": "https://i.imgur.com/iXc9XiH.jpg",
+                "slug": "scream"
+            },
+            "name": "Scream"
+        },   
+        {
+            "info": {
+                "img": "https://i.imgur.com/bK3Epe5.jpg",
+                "slug": "spiderman"
+            },
+            "name": "Spiderman"
+        },                       
+        {
+            "info": {
+                "img": "https://i.imgur.com/x2iLbQt.jpg",
+                "slug": "terminator"
+            },
+            "name": "Terminator"
+        },        
+        {
+            "info": {
+                "img": "https://i.imgur.com/ZgAZmqg.jpg",
+                "slug": "toy-story"
+            },
+            "name": "Toy Story"
+        },
+        {
+            "info": {
+                "img": "https://i.imgur.com/vjlwW5y.jpg",
+                "slug": "transformers"
+            },
+            "name": "Transformers"
+        },   
+        {
+            "info": {
+                "img": "https://i.imgur.com/f7My82S.jpg",
+                "slug": "una-noche-en-el-museo"
+            },
+            "name": "Una Noche en el Museo"
+        },              
+        {
+            "info": {
+                "img": "https://i.imgur.com/WEVmjHq.jpg",
+                "slug": "volver-al-futuro"
+            },
+            "name": "Volver al Futuro"
+        }
+    ]
+}
