@@ -237,7 +237,14 @@
                 "slug": "maze-runner"
             },
             "name": "Maze Runner"
-        },        
+        }, 
+        {
+            "info": {
+                "img": "hhttps://i.imgur.com/zi2oNla.jpg",
+                "slug": "mi-pobre-angelito"
+            },
+            "name": "Mi Pobre Angelito"
+        },         
         {
             "info": {
                 "img": "https://i.imgur.com/CI6c2f7.jpg",
