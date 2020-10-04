@@ -83,7 +83,14 @@
                 "slug": "destino-final"
             },
             "name": "Destino Final"
-        },    
+        },   
+        {
+            "info": {
+                "img": "https://i.imgur.com/SaqO4Ov.jpg",
+                "slug": "depredador"
+            },
+            "name": "Depredador"
+        },          
         {
             "info": {
                 "img": "https://i.imgur.com/hKtAfaM.jpg",
