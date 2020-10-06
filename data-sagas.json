@@ -30,6 +30,13 @@
         },
         {
             "info": {
+                "img": "https://i.imgur.com/FdBZF16.jpg",
+                "slug": "arma-mortal"
+            },
+            "name": "Arma Mortal"
+        },        
+        {
+            "info": {
                 "img": "https://i.imgur.com/vfu12yw.jpg",
                 "slug": "batman"
             },
@@ -90,7 +97,14 @@
                 "slug": "depredador"
             },
             "name": "Depredador"
-        },          
+        },    
+        {
+            "info": {
+                "img": "https://i.imgur.com/9LPhIgi.jpg",
+                "slug": "duro-de-matar"
+            },
+            "name": "Duro de Matar"
+        },           
         {
             "info": {
                 "img": "https://i.imgur.com/hKtAfaM.jpg",
@@ -349,7 +363,14 @@
                 "slug": "spiderman"
             },
             "name": "Spiderman"
-        },                       
+        },   
+        {
+            "info": {
+                "img": "https://i.imgur.com/epTqhUe.jpg",
+                "slug": "star-trek"
+            },
+            "name": "Star Trek"
+        },          
         {
             "info": {
                 "img": "https://i.imgur.com/x2iLbQt.jpg",
