@@ -2,6 +2,13 @@
     "items": [
         {
             "info": {
+                "img": "https://i.imgur.com/eSqfvXg.jpg",
+                "slug": "american-pie"
+            },
+            "name": "American Pie"
+        },
+        {
+            "info": {
                 "img": "https://i.imgur.com/bIGkvzj.jpg",
                 "slug": "alerta-en-lo-profundo"
             },
@@ -216,7 +223,14 @@
                 "slug": "era-de-hielo"
             },
             "name": "La Era de Hielo"
-        },  
+        },
+        {
+            "info": {
+                "img": "https://i.imgur.com/GxTi0x7.jpg",
+                "slug": "el-duende-maldito"
+            },
+            "name": "Leprechaun: El Duende Maldito"
+        },          
         {
             "info": {
                 "img": "https://i.imgur.com/wIu44mX.jpg",
