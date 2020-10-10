@@ -226,6 +226,13 @@
         },
         {
             "info": {
+                "img": "https://i.imgur.com/hw2doas.jpg",
+                "slug": "la-masacre-de-texas"
+            },
+            "name": "La Masacre de Texas"
+        },        
+        {
+            "info": {
                 "img": "https://i.imgur.com/GxTi0x7.jpg",
                 "slug": "el-duende-maldito"
             },
