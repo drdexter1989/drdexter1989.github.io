@@ -237,14 +237,28 @@
                 "slug": "la-momia"
             },
             "name": "La Momia"
-        },           
+        },   
+        {
+            "info": {
+                "img": "https://i.imgur.com/7bdrizR.jpg",
+                "slug": "las-cronicas-de-narnia"
+            },
+            "name": "Las Crónicas de Narnia"
+        },         
         {
             "info": {
                 "img": "https://i.imgur.com/GxTi0x7.jpg",
                 "slug": "el-duende-maldito"
             },
             "name": "Leprechaun: El Duende Maldito"
-        },          
+        },     
+        {
+            "info": {
+                "img": "https://i.imgur.com/7Ahfm8m.jpg",
+                "slug": "los-angeles-de-charlie"
+            },
+            "name": "Los Ángeles de Charlie"
+        },         
         {
             "info": {
                 "img": "https://i.imgur.com/wIu44mX.jpg",
