@@ -230,7 +230,14 @@
                 "slug": "la-masacre-de-texas"
             },
             "name": "La Masacre de Texas"
-        },        
+        },      
+        {
+            "info": {
+                "img": "https://i.imgur.com/4wFgHPJ.jpg",
+                "slug": "la-momia"
+            },
+            "name": "La Momia"
+        },           
         {
             "info": {
                 "img": "https://i.imgur.com/GxTi0x7.jpg",
@@ -433,6 +440,20 @@
                 "slug": "volver-al-futuro"
             },
             "name": "Volver al Futuro"
-        }
+        },
+        {
+            "info": {
+                "img": "https://i.imgur.com/jxx0CU7.jpg",
+                "slug": "wolverine"
+            },
+            "name": "Wolverine"
+        },        
+        {
+            "info": {
+                "img": "https://i.imgur.com/zSW7WxL.png",
+                "slug": "x-men"
+            },
+            "name": "X-Men"
+        }        
     ]
 }
