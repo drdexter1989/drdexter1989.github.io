@@ -286,7 +286,14 @@
                 "slug": "madagascar"
             },
             "name": "Madagascar"
-        },             
+        }, 
+        {
+            "info": {
+                "img": "https://i.imgur.com/JuWkJYV.jpg",
+                "slug": "made-in-abyss"
+            },
+            "name": "Made in Abyss"
+        },           
         {
             "info": {
                 "img": "https://i.imgur.com/Xe85cVv.jpg",
