@@ -216,6 +216,13 @@
                 "slug": "kung-fu-panda"
             },
             "name": "Kung Fu Panda"
+        },      
+        {
+            "info": {
+                "img": "https://i.imgur.com/6978yNb.jpg",
+                "slug": "la-carrera-de-la-muerte"
+            },
+            "name": "La Carrera de la Muerte"
         },        
         {
             "info": {
@@ -224,6 +231,13 @@
             },
             "name": "La Era de Hielo"
         },
+        {
+            "info": {
+                "img": "https://i.imgur.com/eAFOaBV.jpg",
+                "slug": "la-maldicion"
+            },
+            "name": "La Maldición"
+        },         
         {
             "info": {
                 "img": "https://i.imgur.com/2tpKOMQ.jpg",
@@ -370,7 +384,14 @@
                 "slug": "resident-evil"
             },
             "name": "Resident Evil"
-        },        
+        },
+        {
+            "info": {
+                "img": "https://i.imgur.com/g1BAGmk.jpg",
+                "slug": "que-paso-ayer"
+            },
+            "name": "Qué Pasó Ayer"
+        },         
         {
             "info": {
                 "img": "https://i.imgur.com/0QikhJA.jpg",
