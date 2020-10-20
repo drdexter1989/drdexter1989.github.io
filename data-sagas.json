@@ -125,7 +125,14 @@
                 "slug": "duro-de-matar"
             },
             "name": "Duro de Matar"
-        },           
+        },          
+        {
+            "info": {
+                "img": "https://i.imgur.com/kVfp1Pn.jpg",
+                "slug": "el-exorcista"
+            },
+            "name": "El Exorcista"
+        },         
         {
             "info": {
                 "img": "https://i.imgur.com/hKtAfaM.jpg",
