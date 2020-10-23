@@ -191,6 +191,13 @@
         },
         {
             "info": {
+                "img": "https://i.imgur.com/OmNgWD6.jpg",
+                "slug": "indiana-jones"
+            },
+            "name": "Indiana Jones"
+        },              
+        {
+            "info": {
                 "img": "https://i.imgur.com/CZ9XXlx.jpg",
                 "slug": "inframundo"
             },
@@ -322,6 +329,13 @@
             },
             "name": "Los Muppets"
         },       
+        {
+            "info": {
+                "img": "https://i.imgur.com/21QNH79.jpg",
+                "slug": "mad-max"
+            },
+            "name": "Mad Max"
+        },         
         {
             "info": {
                 "img": "https://i.imgur.com/3wCg1VY.jpg",
@@ -524,6 +538,13 @@
                 "slug": "x-men"
             },
             "name": "X-Men"
-        }        
+        },
+        {
+            "info": {
+                "img": "https://i.imgur.com/yqeJey1.jpg",
+                "slug": "y-donde-esta-el-policia"
+            },
+            "name": "Y Dónde Está el Policía"
+        },          
     ]
 }
