@@ -167,7 +167,14 @@
                 "slug": "fate-stay-night-heavens-feel"
             },
             "name": "Fate/Stay Night"
-        },                   
+        },      
+        {
+            "info": {
+                "img": "https://i.imgur.com/c8eNyXR.jpg",
+                "slug": "francotirador"
+            },
+            "name": "Francotirador"
+        },          
         {
             "info": {
                 "img": "https://i.imgur.com/KwktemM.jpg",
