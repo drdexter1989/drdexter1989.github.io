@@ -2,6 +2,20 @@
     "items": [
         {
             "info": {
+                "img": "https://i.imgur.com/SGe4fsR.jpg",
+                "slug": "actividad-paranormal"
+            },
+            "name": "Actividad Paranormal"
+        },     
+        {
+            "info": {
+                "img": "https://i.imgur.com/DCfJbL1.jpg",
+                "slug": "anaconda"
+            },
+            "name": "Anaconda"
+        },        
+        {
+            "info": {
                 "img": "https://i.imgur.com/eSqfvXg.jpg",
                 "slug": "american-pie"
             },
@@ -132,6 +146,13 @@
                 "slug": "el-exorcista"
             },
             "name": "El Exorcista"
+        },       
+        {
+            "info": {
+                "img": "https://i.imgur.com/DKghPrr.jpg",
+                "slug": "el-marine"
+            },
+            "name": "El Marine"
         },         
         {
             "info": {
@@ -216,14 +237,7 @@
                 "slug": "it-eso"
             },
             "name": "It (Eso)"
-        },
-        {
-            "info": {
-                "img": "https://i.imgur.com/dXZ4gK1.jpg",
-                "slug": "soldado-anonimo"
-            },
-            "name": "Soldado Anónimo"
-        },        
+        }, 
         {
             "info": {
                 "img": "https://i.imgur.com/2Z2Vtzz.jpg",
@@ -443,6 +457,13 @@
         },         
         {
             "info": {
+                "img": "https://i.imgur.com/8Lz2vTz.jpg",
+                "slug": "robocop"
+            },
+            "name": "Robocop"
+        },               
+        {
+            "info": {
                 "img": "https://i.imgur.com/0QikhJA.jpg",
                 "slug": "rocky"
             },
@@ -462,6 +483,13 @@
             },
             "name": "Shrek"
         },
+        {
+            "info": {
+                "img": "https://i.imgur.com/dXZ4gK1.jpg",
+                "slug": "soldado-anonimo"
+            },
+            "name": "Soldado Anónimo"
+        },               
         {
             "info": {
                 "img": "https://i.imgur.com/nAZBhsW.jpg",
