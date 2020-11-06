@@ -58,6 +58,13 @@
         },        
         {
             "info": {
+                "img": "https://i.imgur.com/oRUAu3v.jpg",
+                "slug": "bad-boys"
+            },
+            "name": "Bad Boys"
+        },        
+        {
+            "info": {
                 "img": "https://i.imgur.com/vfu12yw.jpg",
                 "slug": "batman"
             },
@@ -98,6 +105,13 @@
             },
             "name": "Cars"
         },
+        {
+            "info": {
+                "img": "https://i.imgur.com/KjZ3Uxu.jpg",
+                "slug": "cloverfield"
+            },
+            "name": "Cloverfield"
+        },        
         {
             "info": {
                 "img": "https://i.imgur.com/SZRBzkC.jpg",
@@ -224,6 +238,13 @@
             },
             "name": "Hotel Transilvanya"
         },
+        {
+            "info": {
+                "img": "https://i.imgur.com/CISiyxq.jpg",
+                "slug": "hose-of-1000-corpses-collection"
+            },
+            "name": "House of 1000 Corpses Collection"
+        },        
         {
             "info": {
                 "img": "https://i.imgur.com/OmNgWD6.jpg",
@@ -413,6 +434,13 @@
             },
             "name": "Mi Villano Favorito"
         },
+        {
+            "info": {
+                "img": "https://i.imgur.com/GekEQKU.jpg",
+                "slug": "mira-quien-habla"
+            },
+            "name": "Mira quién habla"
+        },        
         {
             "info": {
                 "img": "https://i.imgur.com/iOg92Br.jpg",
