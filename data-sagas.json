@@ -142,6 +142,13 @@
         },          
         {
             "info": {
+                "img": "https://i.imgur.com/qrR4QRN.jpg",
+                "slug": "el-efecto-mariposa"
+            },
+            "name": "El Efecto Mariposa"
+        },          
+        {
+            "info": {
                 "img": "https://i.imgur.com/kVfp1Pn.jpg",
                 "slug": "el-exorcista"
             },
@@ -230,7 +237,14 @@
                 "slug": "inframundo"
             },
             "name": "Inframundo"
-        },        
+        }, 
+        {
+            "info": {
+                "img": "https://i.imgur.com/ULjKJMk.jpg",
+                "slug": "insidious"
+            },
+            "name": "Insidious"
+        },           
         {
             "info": {
                 "img": "https://i.imgur.com/uWyqMOd.jpg",
@@ -426,6 +440,13 @@
                 "slug": "piratas-del-caribe"
             },
             "name": "Piratas del Caribe"
+        },     
+        {
+            "info": {
+                "img": "https://i.imgur.com/Syu7cyY.jpg",
+                "slug": "poltergeist"
+            },
+            "name": "Poltergeist"
         },        
         {
             "info": {
@@ -454,6 +475,20 @@
                 "slug": "que-paso-ayer"
             },
             "name": "Qué Pasó Ayer"
+        },         
+        {
+            "info": {
+                "img": "https://i.imgur.com/5J1KZYe.jpg",
+                "slug": "rec"
+            },
+            "name": "Rec"
+        },            
+        {
+            "info": {
+                "img": "https://i.imgur.com/ua7QskT.jpg",
+                "slug": "riddick"
+            },
+            "name": "Riddick"
         },         
         {
             "info": {
