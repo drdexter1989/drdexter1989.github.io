@@ -111,7 +111,14 @@
                 "slug": "cloverfield"
             },
             "name": "Cloverfield"
-        },        
+        },    
+        {
+            "info": {
+                "img": "https://i.imgur.com/W5kudYd.jpg",
+                "slug": "conan"
+            },
+            "name": "Conan"
+        },           
         {
             "info": {
                 "img": "https://i.imgur.com/SZRBzkC.jpg",
@@ -510,7 +517,14 @@
                 "slug": "rec"
             },
             "name": "Rec"
-        },            
+        }, 
+        {
+            "info": {
+                "img": "https://i.imgur.com/RxoJ7Mv.jpg",
+                "slug": "rebuild-of-evangelion"
+            },
+            "name": "Rebuild of Evangelion"
+        },         
         {
             "info": {
                 "img": "https://i.imgur.com/ua7QskT.jpg",
@@ -538,6 +552,13 @@
                 "slug": "saga-del-infinito"
             },
             "name": "Saga del Infinito"
+        },
+        {
+            "info": {
+                "img": "https://i.imgur.com/MpssJAI.jpg",
+                "slug": "sherlock-holmes"
+            },
+            "name": "Sherlock Holmes"
         },        
         {
             "info": {
