@@ -111,7 +111,14 @@
                 "slug": "cloverfield"
             },
             "name": "Cloverfield"
-        },    
+        }, 
+        {
+            "info": {
+                "img": "https://i.imgur.com/FqL0ABi.jpg",
+                "slug": "como-perros-y-gatos"
+            },
+            "name": "Como Perros y Gatos"
+        },         
         {
             "info": {
                 "img": "https://i.imgur.com/W5kudYd.jpg",
