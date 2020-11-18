@@ -142,6 +142,13 @@
         },
         {
             "info": {
+                "img": "https://i.imgur.com/EA0LazI.jpg",
+                "slug": "danie-el-travieso"
+            },
+            "name": "Daniel el Travieso"
+        },        
+        {
+            "info": {
                 "img": "https://i.imgur.com/oDiMEx4.jpg",
                 "slug": "destino-final"
             },
