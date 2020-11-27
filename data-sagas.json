@@ -233,6 +233,13 @@
         },      
         {
             "info": {
+                "img": "https://i.imgur.com/VBkttgq.jpg",
+                "slug": "fintal-fantasy"
+            },
+            "name": "Final Fantasy"
+        },           
+        {
+            "info": {
                 "img": "https://i.imgur.com/c8eNyXR.jpg",
                 "slug": "francotirador"
             },
@@ -637,6 +644,13 @@
             },
             "name": "Transformers"
         },   
+        {
+            "info": {
+                "img": "https://i.imgur.com/iwbHGG7.jpg",
+                "slug": "un-tipo-rudo"
+            },
+            "name": "Un tipo rudo"
+        },         
         {
             "info": {
                 "img": "https://i.imgur.com/f7My82S.jpg",
