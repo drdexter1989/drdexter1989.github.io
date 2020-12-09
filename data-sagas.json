@@ -226,6 +226,13 @@
         },   
         {
             "info": {
+                "img": "https://i.imgur.com/JjNUISF.jpg",
+                "slug": "el-transportador"
+            },
+            "name": "El Transportador"
+        },         
+        {
+            "info": {
                 "img": "https://i.imgur.com/iC2mDcw.jpg",
                 "slug": "fate-stay-night-heavens-feel"
             },
@@ -576,6 +583,13 @@
         },
         {
             "info": {
+                "img": "https://i.imgur.com/iXc9XiH.jpg",
+                "slug": "scream"
+            },
+            "name": "Scream"
+        },         
+        {
+            "info": {
                 "img": "https://i.imgur.com/MpssJAI.jpg",
                 "slug": "sherlock-holmes"
             },
@@ -587,28 +601,14 @@
                 "slug": "shrek"
             },
             "name": "Shrek"
-        },
+        },        
         {
             "info": {
                 "img": "https://i.imgur.com/dXZ4gK1.jpg",
                 "slug": "soldado-anonimo"
             },
             "name": "Soldado Anónimo"
-        },               
-        {
-            "info": {
-                "img": "https://i.imgur.com/nAZBhsW.jpg",
-                "slug": "star-wars"
-            },
-            "name": "Star Wars"
-        },  
-        {
-            "info": {
-                "img": "https://i.imgur.com/iXc9XiH.jpg",
-                "slug": "scream"
-            },
-            "name": "Scream"
-        },   
+        },                   
         {
             "info": {
                 "img": "https://i.imgur.com/bK3Epe5.jpg",
@@ -622,14 +622,35 @@
                 "slug": "star-trek"
             },
             "name": "Star Trek"
-        },          
+        },    
+        {
+            "info": {
+                "img": "https://i.imgur.com/nAZBhsW.jpg",
+                "slug": "star-wars"
+            },
+            "name": "Star Wars"
+        }, 
+        {
+            "info": {
+                "img": "https://i.imgur.com/XRAbN7B.jpg",
+                "slug": "step-up"
+            },
+            "name": "Step Up"
+        },         
         {
             "info": {
                 "img": "https://i.imgur.com/x2iLbQt.jpg",
                 "slug": "terminator"
             },
             "name": "Terminator"
-        },        
+        }, 
+        {
+            "info": {
+                "img": "https://i.imgur.com/QfmUCUx.jpg",
+                "slug": "terror-bajo-la-tierra"
+            },
+            "name": "Terror Bajo la Tierra"
+        },            
         {
             "info": {
                 "img": "https://i.imgur.com/ZgAZmqg.jpg",
