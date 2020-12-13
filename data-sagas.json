@@ -342,7 +342,14 @@
                 "slug": "kung-fu-panda"
             },
             "name": "Kung Fu Panda"
-        },      
+        },   
+        {
+            "info": {
+                "img": "https://i.imgur.com/WYzFLss.jpg",
+                "slug": "la-barberia"
+            },
+            "name": "La Barberia"
+        },           
         {
             "info": {
                 "img": "https://i.imgur.com/6978yNb.jpg",
@@ -583,6 +590,13 @@
         },
         {
             "info": {
+                "img": "https://i.imgur.com/uqA2619.jpg",
+                "slug": "scary-movie"
+            },
+            "name": "Scary Movie"
+        },         
+        {
+            "info": {
                 "img": "https://i.imgur.com/iXc9XiH.jpg",
                 "slug": "scream"
             },
@@ -664,7 +678,14 @@
                 "slug": "transformers"
             },
             "name": "Transformers"
-        },   
+        }, 
+        {
+            "info": {
+                "img": "https://i.imgur.com/78MZzIH.jpg",
+                "slug": "triunfos-robados"
+            },
+            "name": "Triunfos Robados"
+        },           
         {
             "info": {
                 "img": "https://i.imgur.com/iwbHGG7.jpg",
@@ -707,6 +728,13 @@
             },
             "name": "X-Men"
         },
+        {
+            "info": {
+                "img": "https://i.imgur.com/p4NPR8S.jpg",
+                "slug": "xxx-triple-x"
+            },
+            "name": "xXx (Triple X)"
+        },          
         {
             "info": {
                 "img": "https://i.imgur.com/yqeJey1.jpg",
