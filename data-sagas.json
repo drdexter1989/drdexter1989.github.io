@@ -107,6 +107,13 @@
         },
         {
             "info": {
+                "img": "https://i.imgur.com/F9A5EZg.jpg",
+                "slug": "chucky"
+            },
+            "name": "Chucky"
+        },        
+        {
+            "info": {
                 "img": "https://i.imgur.com/KjZ3Uxu.jpg",
                 "slug": "cloverfield"
             },
@@ -251,7 +258,14 @@
                 "slug": "francotirador"
             },
             "name": "Francotirador"
-        },          
+        },    
+        {
+            "info": {
+                "img": "https://i.imgur.com/41CKJ9f.jpg",
+                "slug": "halloween"
+            },
+            "name": "Halloween"
+        },        
         {
             "info": {
                 "img": "https://i.imgur.com/KwktemM.jpg",
@@ -366,6 +380,13 @@
         },
         {
             "info": {
+                "img": "https://i.imgur.com/j92iNKR.jpg",
+                "slug": "la-historia-sin-fin"
+            },
+            "name": "La Historia sin Fin"
+        },          
+        {
+            "info": {
                 "img": "https://i.imgur.com/eAFOaBV.jpg",
                 "slug": "la-maldicion"
             },
@@ -469,6 +490,13 @@
             },
             "name": "Mi Pobre Angelito"
         },         
+        {
+            "info": {
+                "img": "https://i.imgur.com/t0IKTUE.jpg",
+                "slug": "millennium"
+            },
+            "name": "Millennium"
+        },        
         {
             "info": {
                 "img": "https://i.imgur.com/CI6c2f7.jpg",
