@@ -440,7 +440,14 @@
                 "slug": "los-juegos-del-hambre"
             },
             "name": "Los Juegos del Hambre"
-        },             
+        }, 
+        {
+            "info": {
+                "img": "https://i.imgur.com/ApUiNq7.jpg",
+                "slug": "los-4-fantasticos"
+            },
+            "name": "Los 4 Fantasticos"
+        },        
         {
             "info": {
                 "img": "https://i.imgur.com/B6Ckrw4.jpg",
