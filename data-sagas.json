@@ -181,7 +181,14 @@
                 "slug": "duro-de-matar"
             },
             "name": "Duro de Matar"
-        },          
+        },
+        {
+            "info": {
+                "img": "https://i.imgur.com/GTiytui.jpg",
+                "slug": "el-demonio"
+            },
+            "name": "El Demonio"
+        },        
         {
             "info": {
                 "img": "https://i.imgur.com/qrR4QRN.jpg",
@@ -422,6 +429,13 @@
         },     
         {
             "info": {
+                "img": "https://i.imgur.com/PF3LzfQ.jpg",
+                "slug": "loca-academia-de-pilotos-hot-shots"
+            },
+            "name": "Loca Academia de Pilotos (Hot Shots!)"
+        },         
+        {
+            "info": {
                 "img": "https://i.imgur.com/7Ahfm8m.jpg",
                 "slug": "los-angeles-de-charlie"
             },
@@ -490,6 +504,13 @@
             },
             "name": "Maze Runner"
         }, 
+        {
+            "info": {
+                "img": "https://i.imgur.com/kBuO9ig.jpg",
+                "slug": "mini-espias"
+            },
+            "name": "Mini Espías"
+        },            
         {
             "info": {
                 "img": "https://i.imgur.com/zi2oNla.jpg",
@@ -615,6 +636,13 @@
                 "slug": "rocky"
             },
             "name": "Rocky"
+        },  
+        {
+            "info": {
+                "img": "https://i.imgur.com/cbZqsJL.jpg",
+                "slug": "samurai-x-rurouni-kenshin"
+            },
+            "name": "Samurai X - Rurouni Kenshin"
         },        
         {
             "info": {
@@ -653,11 +681,18 @@
         },        
         {
             "info": {
-                "img": "https://i.imgur.com/dXZ4gK1.jpg",
+                "img": "https://i.imgur.com/Alwr29o.jpg",
                 "slug": "soldado-anonimo"
             },
             "name": "Soldado Anónimo"
-        },                   
+        },    
+        {
+            "info": {
+                "img": "https://i.imgur.com/dXZ4gK1.jpg",
+                "slug": "soldado-universal"
+            },
+            "name": "Soldado Universal"
+        },        
         {
             "info": {
                 "img": "https://i.imgur.com/bK3Epe5.jpg",
@@ -685,6 +720,13 @@
                 "slug": "step-up"
             },
             "name": "Step Up"
+        },   
+        {
+            "info": {
+                "img": "https://i.imgur.com/hl3qOFe.jpg",
+                "slug": "superman"
+            },
+            "name": "Superman"
         },         
         {
             "info": {
