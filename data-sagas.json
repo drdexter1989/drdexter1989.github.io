@@ -121,6 +121,13 @@
         },
         {
             "info": {
+                "img": "https://i.imgur.com/RSFxbf3.jpg",
+                "slug": "cantinflas"
+            },
+            "name": "Cantinflas"
+        },        
+        {
+            "info": {
                 "img": "https://i.imgur.com/Tf3QTWt.jpg",
                 "slug": "cars"
             },
