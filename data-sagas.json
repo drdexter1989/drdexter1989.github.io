@@ -212,6 +212,13 @@
         }, 
         {
             "info": {
+                "img": "https://i.imgur.com/ZgY7xzK.jpg",
+                "slug": "dios-no-esta-muerto"
+            },
+            "name": "Dios no está muerto"
+        },         
+        {
+            "info": {
                 "img": "https://i.imgur.com/msOmMTW.jpg",
                 "slug": "divergente"
             },
