@@ -9,6 +9,13 @@
         },     
         {
             "info": {
+                "img": "https://i.imgur.com/2CmjVL6.jpg",
+                "slug": "agarralo-como-puedas"
+            },
+            "name": "Agárralo como puedas"
+        },         
+        {
+            "info": {
                 "img": "https://i.imgur.com/DCfJbL1.jpg",
                 "slug": "anaconda"
             },
@@ -55,7 +62,14 @@
                 "slug": "arma-mortal"
             },
             "name": "Arma Mortal"
-        },        
+        },     
+        {
+            "info": {
+                "img": "https://i.imgur.com/ZgqDc2Y.jpg",
+                "slug": "austin-powers
+            },
+            "name": "Austin Powers
+        },         
         {
             "info": {
                 "img": "https://i.imgur.com/oRUAu3v.jpg",
