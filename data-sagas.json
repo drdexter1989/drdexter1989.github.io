@@ -860,7 +860,14 @@
                 "slug": "una-noche-en-el-museo"
             },
             "name": "Una Noche en el Museo"
-        },    
+        }, 
+        {
+            "info": {
+                "img": "https://i.imgur.com/8PmSWx3.jpg",
+                "slug": "universo-pixar"
+            },
+            "name": "Universo Pixar"
+        },         
         {
             "info": {
                 "img": "https://i.imgur.com/7eA16II.jpg",
