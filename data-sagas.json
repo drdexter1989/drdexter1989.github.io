@@ -587,7 +587,14 @@
                 "slug": "millennium"
             },
             "name": "Millennium"
-        },        
+        },      
+        {
+            "info": {
+                "img": "https://i.imgur.com/ufVCSLc.jpg",
+                "slug": "mimic"
+            },
+            "name": "Mimic"
+        },          
         {
             "info": {
                 "img": "https://i.imgur.com/CI6c2f7.jpg",
@@ -777,6 +784,13 @@
             },
             "name": "Star Wars"
         }, 
+        {
+            "info": {
+                "img": "https://i.imgur.com/ayzjeFV.jpg",
+                "slug": "starship-troopers"
+            },
+            "name": "Starship Troopers"
+        },         
         {
             "info": {
                 "img": "https://i.imgur.com/XRAbN7B.jpg",
