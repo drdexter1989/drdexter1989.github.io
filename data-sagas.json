@@ -184,6 +184,13 @@
         },
         {
             "info": {
+                "img": "https://i.imgur.com/xrqBOEx.jpg",
+                "slug": "criaturas-salvajes"
+            },
+            "name": "Criaturas Salvajes"
+        },        
+        {
+            "info": {
                 "img": "https://i.imgur.com/EA0LazI.jpg",
                 "slug": "danie-el-travieso"
             },
