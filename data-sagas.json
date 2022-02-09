@@ -321,6 +321,13 @@
                 "slug": "halloween"
             },
             "name": "Halloween"
+        },     
+        {
+            "info": {
+                "img": "https://i.imgur.com/5tQwCJM.jpg",
+                "slug": "harry-el-sucio"
+            },
+            "name": "Harry el Sucio"
         },        
         {
             "info": {
@@ -343,6 +350,13 @@
             },
             "name": "Hotel Transilvanya"
         },
+        {
+            "info": {
+                "img": "https://i.imgur.com/glHjmiq.jpg",
+                "slug": "historia-policiaca"
+            },
+            "name": "Historia Policiaca"
+        },            
         {
             "info": {
                 "img": "https://i.imgur.com/CISiyxq.jpg",
