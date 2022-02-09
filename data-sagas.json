@@ -6,14 +6,7 @@
                 "slug": "actividad-paranormal"
             },
             "name": "Actividad Paranormal"
-        },     
-        {
-            "info": {
-                "img": "https://i.imgur.com/2CmjVL6.jpg",
-                "slug": "agarralo-como-puedas"
-            },
-            "name": "Agárralo como puedas"
-        },         
+        },            
         {
             "info": {
                 "img": "https://i.imgur.com/DCfJbL1.jpg",
@@ -112,6 +105,13 @@
             },
             "name": "Bourne"
         },
+        {
+            "info": {
+                "img": "https://i.imgur.com/ux3zFqm.jpg",
+                "slug": "bruce-lee"
+            },
+            "name": "Bruce Lee"
+        },        
         {
             "info": {
                 "img": "https://i.imgur.com/bIv1Oqf.jpg",
