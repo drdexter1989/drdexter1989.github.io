@@ -146,7 +146,14 @@
                 "slug": "como-perros-y-gatos"
             },
             "name": "Como Perros y Gatos"
-        },         
+        },      
+        {
+            "info": {
+                "img": "https://i.imgur.com/wy7aX5s.jpg",
+                "slug": "caballeros-del-zodiaco"
+            },
+            "name": "Caballeros del Zodiaco"
+        },            
         {
             "info": {
                 "img": "https://i.imgur.com/W5kudYd.jpg",
