@@ -478,6 +478,13 @@
         },   
         {
             "info": {
+                "img": "https://i.imgur.com/WquZ146.jpg",
+                "slug": "la-purga"
+            },
+            "name": "La Purga"
+        },          
+        {
+            "info": {
                 "img": "https://i.imgur.com/7bdrizR.jpg",
                 "slug": "las-cronicas-de-narnia"
             },
